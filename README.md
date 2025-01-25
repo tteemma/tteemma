@@ -87,7 +87,11 @@
 </a>
 <a href="https://gitlab.com/https://gitlab.se.ifmo.ru/Temo4ka" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://t.me/ttemmaaa" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+</a>
+
   
 
 <br/>  
