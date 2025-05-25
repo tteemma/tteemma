@@ -6,7 +6,7 @@
 ### <div align="center">Young and ambitious developer with experience in creating web applications, focusing on backend development using Java and modern frameworks</div>  
   
 
-- 🔭 I’m currently working on [Labwork4](https://github.com/tteemma/ITMO/tree/master/Semester3/Web/Labwork4)  
+- 🔭 I’m currently working on [Brain Quiz🧠](https://github.com/tteemma/BrainQuiz-)  
   
 
 - 🌱 I’m currently learning blockchain development  
