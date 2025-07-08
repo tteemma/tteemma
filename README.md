@@ -56,8 +56,6 @@
   <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50" /></a>
   <!-- React Testing Library -->
   <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" height="50" /></a>
-  <!-- PWA -->
-  <a href="https://web.dev/progressive-web-apps/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/pwa-logo-75A5BEE636-seeklogo.com.png" alt="PWA" height="50" /></a>
   <!-- Service Worker -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="Service Worker" height="50" /></a>
   <!-- Webpack -->
