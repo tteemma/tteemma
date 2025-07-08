@@ -117,13 +117,7 @@
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/tteemma" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/https://gitlab.se.ifmo.ru/Temo4ka" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/ttemmaaa" target="_blank">
+<a href="https://t.me/frontend_president" target="_blank">
   <img src="https://img.shields.io/badge/telegram-0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
 </a>
 
