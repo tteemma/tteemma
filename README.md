@@ -6,7 +6,7 @@
 ### <div align="center">Young and ambitious developer with experience in creating web applications, focusing on backend development using Java and modern frameworks</div>  
   
 
-- 🔭 I’m currently working on [Space Guide🌌𓆩🖤𓆪🌍](https://github.com/tteemma/space-guide)
+- 🔭 I’m currently working on [Palette Menagement𓆩🖤𓆪🎨🖌️](https://github.com/tteemma/palette-management)
   
 
 - 🌱 I’m currently learning blockchain development  
