@@ -4,10 +4,7 @@
   
 
 ### <div align="center">Young and ambitious developer with experience in creating web applications, focusing on frontend development using React</div>  
-  
 
-- 🔭 I’m currently working on [Palette Menagement 🎨🖌️](https://github.com/tteemma/palette-management)
-  
 
 - 🌱 I’m currently learning blockchain development  
   
